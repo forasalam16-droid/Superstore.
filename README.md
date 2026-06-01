@@ -5,11 +5,11 @@ This Power BI project analyzes digital advertising campaign performance using da
 
 Key Features
 
-Campaign Performance Analysis
-Engagement Analysis
-Advertisement Performance Tracking
-Cost & ROI Analysis
-Interactive Filters and Drill-downs
+Campaign Performance Analysis,
+Engagement Analysis,
+Advertisement Performance Tracking,
+Cost & ROI Analysis,
+Interactive Filters and Drill-downs,
 KPI Monitoring Dashboard
 
 
