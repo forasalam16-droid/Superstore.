@@ -18,9 +18,9 @@ Tools Used
 
 
 
-Power BI
-DAX
-Data Modeling
+Power BI,
+DAX,
+Data Modeling,
 Data Visualization
 
 
